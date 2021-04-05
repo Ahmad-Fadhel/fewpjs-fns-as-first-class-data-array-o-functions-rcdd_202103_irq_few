@@ -21,10 +21,9 @@ let routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog
 function exerciseDog(dogName, dogBreed){
    let finalRoutne= [];
   for (let i =0; i < routine.length; i++){
-    
     finalRoutne.push(routine[i](dogName, dogBreed));
   }
-  
+  finalRoutne;
   
 }
 
