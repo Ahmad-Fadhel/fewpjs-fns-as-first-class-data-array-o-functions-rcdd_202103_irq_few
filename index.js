@@ -23,7 +23,7 @@ function exerciseDog(dogName, dogBreed){
   for (let i =0; i < routine.length; i++){
     finalRoutne.push(routine[i](dogName, dogBreed));
   }
-  finalRoutne;
+  console.log(finalRoutne);
   
 }
 
