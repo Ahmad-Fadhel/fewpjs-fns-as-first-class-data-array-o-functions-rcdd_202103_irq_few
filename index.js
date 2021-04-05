@@ -33,12 +33,12 @@ function exerciseDog(dogName, dogBreed){
   
 }
 
-// exerciseDog("Esther","Dalmation");
-// wakeDog("Xerox","Border Collie");
-// leashDog("Boo Radley","Pibble");
-// walkToPark("Bunny","Labrador");
-// throwFrisbee("Mary J. Blige","Papillon");
-// walkHome("Santa Paws","Husky");
-// unleashDog("Lauren","Golden Retriever");
+exerciseDog("Esther","Dalmation");
+wakeDog("Xerox","Border Collie");
+leashDog("Boo Radley","Pibble");
+walkToPark("Bunny","Labrador");
+throwFrisbee("Mary J. Blige","Papillon");
+walkHome("Santa Paws","Husky");
+unleashDog("Lauren","Golden Retriever");
 
 
